@@ -1,12 +1,15 @@
-<h1 align="center">Code Institute Website</h1>
+<h1 align="center">Code Institute Milestone 1 Website</h1>
 
 [View the live project here.](https://codeinstitute.net)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is my milestone 1 project. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for all users.  
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
+
 ## User Experience (UX)
+
+<font color="#404040">
 
 -   ### User stories
 
@@ -27,6 +30,7 @@ This is the main marketing website for Code Institute. It is designed to be resp
         2. As a Frequent User, I want to check to see if there are any new blog posts.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
+
 -   ### Design
     -   #### Colour Scheme
         -   The two main colours used are Code Insititue red, and white.
@@ -42,6 +46,10 @@ This is the main marketing website for Code Institute. It is designed to be resp
     -   Mobile Wireframe - [View](https://github.com/)
 
     -   Contact Us Page Wireframe - [View](https://github.com/)
+
+</font>
+
+<font color="#404040">
 
 ## Features
 
@@ -226,3 +234,5 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
+
+</font>
