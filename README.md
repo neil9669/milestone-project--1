@@ -2,14 +2,14 @@
 
 [View the live project here.](https://codeinstitute.net)
 
-This is my milestone 1 project. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for all users.  
+This is my milestone 1 project. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for all users.  It is intended to be informative for users interested in backing up data from their smartphones to a local Nextcloud server.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
 
 ## User Experience (UX)
 
-<font color="#404040">
+<font color="#eee">
 
 -   ### User stories
 
@@ -49,7 +49,7 @@ This is my milestone 1 project. It is designed to be responsive and accessible o
 
 </font>
 
-<font color="#404040">
+<font color="#eee">
 
 ## Features
 
